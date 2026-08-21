@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript and React native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her/gay
 - ⚡ Fun fact: I like girls
 
 <!---

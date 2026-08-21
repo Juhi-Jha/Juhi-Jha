@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning JavaScript and React native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: she/her/gay
-- ⚡ Fun fact: I like girls
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have commitment issue
 
 <!---
 Juhi-Jha/Juhi-Jha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

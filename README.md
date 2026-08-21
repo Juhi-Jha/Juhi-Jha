@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Juhi-Jha
+- 👋 Hi, I’m @Juhi
 - 👀 I’m interested in learning more and more about this programing world
 - 🌱 I’m currently learning JavaScript and React native
 - 💞️ I’m looking to collaborate on ...

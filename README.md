@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Juhisadfiuhdsafiuhdsafiu idsafhgidsafu gsadf dsfi am gay
+- 👋 Hi, I’m @Juhi jha
 - 👀 I’m interested in learning more and more about this programing world
 - 🌱 I’m currently learning JavaScript and React native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have "commitment issues" with version control.
+- ⚡ Fun fact: I like girls
 
 <!---
 Juhi-Jha/Juhi-Jha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
